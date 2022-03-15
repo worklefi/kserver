@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:22:41.996292",
-            "text": "1XSTAVKA:\n08:15:00+00:00\nIndonesia\nSuper League\nPusamania Borneo - Persiraja Banda Aceh\nX, коэф. - 5.35"
+            "time": "2022-03-16 02:22:42.998622",
+            "text": "1XSTAVKA:\n08:30:00+00:00\nIndia\nI-League\nSudeva - Aizawl\nX, коэф. - 3.44"
         }
     ]
 }
