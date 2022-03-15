@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:24:06.215865",
-            "text": "1XSTAVKA:\n17:30:00+00:00\nIsrael\nLiga Alef\nMaccabi Kabilio Jaffa - Hapoel Bnei Lod\nX, коэф. - 6.65"
+            "time": "2022-03-16 02:24:07.566285",
+            "text": "1XSTAVKA:\n17:45:00+00:00\nPoland\nEkstraklasa\nLegia Warszawa - Nieciecza\nX, коэф. - 3.9"
         }
     ]
 }
