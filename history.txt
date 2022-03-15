@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:23:17.680173",
-            "text": "1XSTAVKA:\n13:00:00+00:00\nTanzania\nLigi kuu Bara\nBiashara United - Tanzania Prisons\nX, коэф. - 2.31"
+            "time": "2022-03-16 02:23:18.635679",
+            "text": "1XSTAVKA:\n13:00:00+00:00\nEgypt\nSecond League - Group A\nEl Madina El Monowara - Kima Aswan\nX, коэф. - 2.58"
         }
     ]
 }
