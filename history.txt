@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:24:16.439929",
-            "text": "1XSTAVKA:\n18:00:00+00:00\nFrance\nLigue 2\nRodez - Guingamp\nX, коэф. - 2.91"
+            "time": "2022-03-16 02:24:17.474047",
+            "text": "1XSTAVKA:\n18:00:00+00:00\nFrance\nLigue 2\nToulouse - Amiens\nX, коэф. - 4.14"
         }
     ]
 }
