@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:23:11.766321",
-            "text": "1XSTAVKA:\n12:00:00+00:00\nKenya\nPremier League\nKCB - Tusker\nX, коэф. - 2.56"
+            "time": "2022-03-16 02:23:14.773385",
+            "text": "1XSTAVKA:\n13:00:00+00:00\nEngland\nProfessional Development League\nWatford U23 - Charlton Athletic U23\nX, коэф. - 3.84"
         }
     ]
 }
