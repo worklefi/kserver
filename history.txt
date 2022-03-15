@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:23:34.773149",
-            "text": "1XSTAVKA:\n13:45:00+00:00\nUnited-Arab-Emirates\nArabian Gulf League\nAl-Jazira - Al-Ittihad Kalba\nX, коэф. - 4.18"
+            "time": "2022-03-16 02:23:35.744251",
+            "text": "1XSTAVKA:\n14:00:00+00:00\nIndia\nI-League\nReal Kashmir - NEROCA\nX, коэф. - 3.06"
         }
     ]
 }
