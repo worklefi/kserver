@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:23:47.133852",
-            "text": "1XSTAVKA:\n16:00:00+00:00\nLithuania\nA Lyga\nHegelmann Litauen - Panevėžys\nX, коэф. - 3.12"
+            "time": "2022-03-16 02:23:48.220818",
+            "text": "1XSTAVKA:\n16:15:00+00:00\nWorld\nAFC Champions League\nBaniyas SC - Nasaf\nX, коэф. - 3.24"
         }
     ]
 }
