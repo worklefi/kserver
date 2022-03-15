@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:23:38.112676",
-            "text": "1XSTAVKA:\n14:00:00+00:00\nIndia\nIndian Super League\nKerala Blasters - Jamshedpur\nX, коэф. - 3.58"
+            "time": "2022-03-16 02:23:39.985904",
+            "text": "1XSTAVKA:\n15:00:00+00:00\nSlovakia\nCup\nSlovan Bratislava - Zlaté Moravce\nX, коэф. - 8.0"
         }
     ]
 }
