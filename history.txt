@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:22:36.767940",
-            "text": "1XSTAVKA:\n00:00:00+00:00\nEcuador\nSerie A\nGuayaquil City FC - Delfin SC\nX, коэф. - 3.16"
+            "time": "2022-03-16 02:22:38.371693",
+            "text": "1XSTAVKA:\n00:30:00+00:00\nArgentina\nPrimera Division\nArgentinos JRS - Defensa Y Justicia\nX, коэф. - 3.44"
         }
     ]
 }
