@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:23:32.336266",
-            "text": "1XSTAVKA:\n13:30:00+00:00\nSouth-Africa\n1st Division\nUniversity of Pretoria - Free State Stars\nX, коэф. - 2.88"
+            "time": "2022-03-16 02:23:33.401600",
+            "text": "1XSTAVKA:\n13:30:00+00:00\nItaly\nSerie C\nViterbese - Pistoiese\nX, коэф. - 3.34"
         }
     ]
 }
