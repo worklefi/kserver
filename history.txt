@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:23:14.773385",
-            "text": "1XSTAVKA:\n13:00:00+00:00\nEngland\nProfessional Development League\nWatford U23 - Charlton Athletic U23\nX, коэф. - 3.84"
+            "time": "2022-03-16 02:23:15.813459",
+            "text": "1XSTAVKA:\n13:00:00+00:00\nEngland\nProfessional Development League\nSheffield Wednesday U23 - Sheffield United U23\nX, коэф. - 4.1"
         }
     ]
 }
