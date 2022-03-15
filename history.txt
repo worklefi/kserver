@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:24:05.213495",
-            "text": "1XSTAVKA:\n17:30:00+00:00\nItaly\nSerie B\nNuova Cosenza - Lecce\nX, коэф. - 3.64"
+            "time": "2022-03-16 02:24:06.215865",
+            "text": "1XSTAVKA:\n17:30:00+00:00\nIsrael\nLiga Alef\nMaccabi Kabilio Jaffa - Hapoel Bnei Lod\nX, коэф. - 6.65"
         }
     ]
 }
