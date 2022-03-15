@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:22:59.853275",
-            "text": "1XSTAVKA:\n11:00:00+00:00\nIndia\nI-League\nMinerva Punjab - Sreenidi Deccan\nX, коэф. - 3.58"
+            "time": "2022-03-16 02:23:00.809318",
+            "text": "1XSTAVKA:\n11:00:00+00:00\nUganda\nPremier League\nUPDF - Wakiso Giants\nX, коэф. - 2.9"
         }
     ]
 }
