@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:23:18.635679",
-            "text": "1XSTAVKA:\n13:00:00+00:00\nEgypt\nSecond League - Group A\nEl Madina El Monowara - Kima Aswan\nX, коэф. - 2.58"
+            "time": "2022-03-16 02:23:19.569080",
+            "text": "1XSTAVKA:\n13:00:00+00:00\nEgypt\nSecond League - Group C\nEl Hamam - Kafr El Sheikh\nX, коэф. - 2.8"
         }
     ]
 }
