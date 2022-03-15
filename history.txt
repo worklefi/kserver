@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:23:52.129902",
-            "text": "1XSTAVKA:\n17:00:00+00:00\nItaly\nSerie C\nCarrarese - Olbia\nX, коэф. - 2.85"
+            "time": "2022-03-16 02:23:53.232527",
+            "text": "1XSTAVKA:\n17:00:00+00:00\nItaly\nSerie C\nModena - Robur Siena\nX, коэф. - 4.12"
         }
     ]
 }
