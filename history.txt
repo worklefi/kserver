@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-15 00:39:52.529269",
-            "text": 102
+            "time": "2022-03-16 02:22:36.767940",
+            "text": "1XSTAVKA:\n00:00:00+00:00\nEcuador\nSerie A\nGuayaquil City FC - Delfin SC\nX, коэф. - 3.16"
         }
     ]
 }
