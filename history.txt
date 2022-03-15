@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:23:39.985904",
-            "text": "1XSTAVKA:\n15:00:00+00:00\nSlovakia\nCup\nSlovan Bratislava - Zlaté Moravce\nX, коэф. - 8.0"
+            "time": "2022-03-16 02:23:40.950050",
+            "text": "1XSTAVKA:\n15:20:00+00:00\nKuwait\nCrown Prince Cup\nAl Kuwait - Al Arabi\nX, коэф. - 3.22"
         }
     ]
 }
