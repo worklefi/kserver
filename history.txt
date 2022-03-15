@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:22:38.371693",
-            "text": "1XSTAVKA:\n00:30:00+00:00\nArgentina\nPrimera Division\nArgentinos JRS - Defensa Y Justicia\nX, коэф. - 3.44"
+            "time": "2022-03-16 02:22:39.390212",
+            "text": "1XSTAVKA:\n00:30:00+00:00\nArgentina\nPrimera Division\nIndependiente - Central Cordoba de Santiago\nX, коэф. - 3.32"
         }
     ]
 }
