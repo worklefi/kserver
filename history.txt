@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:22:52.358251",
-            "text": "1XSTAVKA:\n10:00:00+00:00\nSouth-Korea\nK-League Challenge\nDaejeon Citizen - Ansan Greeners\nX, коэф. - 3.56"
+            "time": "2022-03-16 02:22:53.438203",
+            "text": "1XSTAVKA:\n10:00:00+00:00\nWorld\nAFC Champions League\nVissel Kobe - Melbourne Victory\nX, коэф. - 4.1"
         }
     ]
 }
