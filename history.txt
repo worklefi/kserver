@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:23:02.613554",
-            "text": "1XSTAVKA:\n11:00:00+00:00\nGeorgia\nErovnuli Liga\nGagra - Telavi\nX, коэф. - 3.22"
+            "time": "2022-03-16 02:23:09.059972",
+            "text": "1XSTAVKA:\n11:05:00+00:00\nAustralia\nA-League\nPerth Glory - Central Coast Mariners\nX, коэф. - 3.46"
         }
     ]
 }
