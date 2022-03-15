@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:23:35.744251",
-            "text": "1XSTAVKA:\n14:00:00+00:00\nIndia\nI-League\nReal Kashmir - NEROCA\nX, коэф. - 3.06"
+            "time": "2022-03-16 02:23:38.112676",
+            "text": "1XSTAVKA:\n14:00:00+00:00\nIndia\nIndian Super League\nKerala Blasters - Jamshedpur\nX, коэф. - 3.58"
         }
     ]
 }
