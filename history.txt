@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:22:47.931770",
-            "text": "1XSTAVKA:\n10:00:00+00:00\nWorld\nAFC Champions League\nUlsan Hyundai FC - Port FC\nX, коэф. - 5.1"
+            "time": "2022-03-16 02:22:49.282185",
+            "text": "1XSTAVKA:\n10:00:00+00:00\nJapan\nJ-League Cup\nOita Trinita - Kashima\nX, коэф. - 3.92"
         }
     ]
 }
