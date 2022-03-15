@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:24:20.427814",
-            "text": "1XSTAVKA:\n18:00:00+00:00\nGermany\nRegionalliga - Bayern\nSpVgg Unterhaching - FC Schweinfurt 05\nX, коэф. - 3.72"
+            "time": "2022-03-16 02:24:21.383298",
+            "text": "1XSTAVKA:\n18:00:00+00:00\nGermany\nRegionalliga - Bayern\nBayern München II - Eltersdorf\nX, коэф. - 7.5"
         }
     ]
 }
