@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:22:54.447084",
-            "text": "1XSTAVKA:\n10:00:00+00:00\nIndonesia\nSuper League\nBali United - Arema FC\nX, коэф. - 3.58"
+            "time": "2022-03-16 02:22:56.668348",
+            "text": "1XSTAVKA:\n10:30:00+00:00\nWorld\nAFC Champions League\nDaegu FC - Buriram United\nX, коэф. - 4.14"
         }
     ]
 }
