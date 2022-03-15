@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:22:40.361300",
-            "text": "1XSTAVKA:\n01:00:00+00:00\nMexico\nLiga MX Femenil\nMonterrey W - Necaxa W\nX, коэф. - 11.5"
+            "time": "2022-03-16 02:22:41.996292",
+            "text": "1XSTAVKA:\n08:15:00+00:00\nIndonesia\nSuper League\nPusamania Borneo - Persiraja Banda Aceh\nX, коэф. - 5.35"
         }
     ]
 }
