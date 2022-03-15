@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:23:28.859775",
-            "text": "1XSTAVKA:\n13:15:00+00:00\nSaudi-Arabia\nDivision 1\nAl-Ain - Al Akhdoud\nX, коэф. - 3.0"
+            "time": "2022-03-16 02:23:29.777500",
+            "text": "1XSTAVKA:\n13:30:00+00:00\nCzech-Republic\nFNL\nTřinec - Chrudim\nX, коэф. - 3.42"
         }
     ]
 }
