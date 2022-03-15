@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:22:51.255635",
-            "text": "1XSTAVKA:\n10:00:00+00:00\nJapan\nJ-League Cup\nFC Tokyo - Jubilo Iwata\nX, коэф. - 3.34"
+            "time": "2022-03-16 02:22:52.358251",
+            "text": "1XSTAVKA:\n10:00:00+00:00\nSouth-Korea\nK-League Challenge\nDaejeon Citizen - Ansan Greeners\nX, коэф. - 3.56"
         }
     ]
 }
