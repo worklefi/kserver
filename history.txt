@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:22:39.390212",
-            "text": "1XSTAVKA:\n00:30:00+00:00\nArgentina\nPrimera Division\nIndependiente - Central Cordoba de Santiago\nX, коэф. - 3.32"
+            "time": "2022-03-16 02:22:40.361300",
+            "text": "1XSTAVKA:\n01:00:00+00:00\nMexico\nLiga MX Femenil\nMonterrey W - Necaxa W\nX, коэф. - 11.5"
         }
     ]
 }
