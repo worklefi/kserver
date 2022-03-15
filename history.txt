@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:23:10.378161",
-            "text": "1XSTAVKA:\n11:15:00+00:00\nIndonesia\nSuper League\nPersita - Persik Kediri\nX, коэф. - 2.4"
+            "time": "2022-03-16 02:23:11.766321",
+            "text": "1XSTAVKA:\n12:00:00+00:00\nKenya\nPremier League\nKCB - Tusker\nX, коэф. - 2.56"
         }
     ]
 }
