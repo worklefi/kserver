@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:23:27.941992",
-            "text": "1XSTAVKA:\n13:15:00+00:00\nSaudi-Arabia\nDivision 1\nAl Jabalain - Jeddah Club\nX, коэф. - 2.98"
+            "time": "2022-03-16 02:23:28.859775",
+            "text": "1XSTAVKA:\n13:15:00+00:00\nSaudi-Arabia\nDivision 1\nAl-Ain - Al Akhdoud\nX, коэф. - 3.0"
         }
     ]
 }
