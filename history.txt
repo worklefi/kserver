@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:22:56.668348",
-            "text": "1XSTAVKA:\n10:30:00+00:00\nWorld\nAFC Champions League\nDaegu FC - Buriram United\nX, коэф. - 4.14"
+            "time": "2022-03-16 02:22:57.817825",
+            "text": "1XSTAVKA:\n10:30:00+00:00\nSouth-Korea\nK-League Challenge\nGimpo Citizen - Asan Mugunghwa\nX, коэф. - 3.1"
         }
     ]
 }
