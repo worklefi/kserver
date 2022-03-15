@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:22:46.992366",
-            "text": "1XSTAVKA:\n10:00:00+00:00\nCzech-Republic\n1. Liga U19\nSigma Olomouc U19 - České Budějovice U19\nX, коэф. - 4.14"
+            "time": "2022-03-16 02:22:47.931770",
+            "text": "1XSTAVKA:\n10:00:00+00:00\nWorld\nAFC Champions League\nUlsan Hyundai FC - Port FC\nX, коэф. - 5.1"
         }
     ]
 }
