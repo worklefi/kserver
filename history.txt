@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:23:24.696755",
-            "text": "1XSTAVKA:\n13:00:00+00:00\nPalestine\nWest Bank Premier League\nShabab Al Am'ari - Islami Kalkelea\nX, коэф. - 3.2"
+            "time": "2022-03-16 02:23:25.768085",
+            "text": "1XSTAVKA:\n13:00:00+00:00\nMalaysia\nFA Cup\nSkuad Projek - Tok Janggut Warriors\nX, коэф. - 3.78"
         }
     ]
 }
