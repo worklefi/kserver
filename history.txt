@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "time": "2022-03-16 02:23:40.950050",
-            "text": "1XSTAVKA:\n15:20:00+00:00\nKuwait\nCrown Prince Cup\nAl Kuwait - Al Arabi\nX, коэф. - 3.22"
+            "time": "2022-03-16 02:23:41.921679",
+            "text": "1XSTAVKA:\n15:30:00+00:00\nSouth-Africa\n1st Division\nUthongathi - Venda FC\nX, коэф. - 2.92"
         }
     ]
 }
