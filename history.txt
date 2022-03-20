@@ -1,8 +1,0 @@
-{
-    "data": [
-        {
-            "time": "2022-03-16 02:24:22.470267",
-            "text": "1XSTAVKA:\n18:00:00+00:00\nGermany\nRegionalliga - Bayern\nViktoria Aschaffenburg - Nürnberg II\nX, коэф. - 3.68"
-        }
-    ]
-}
